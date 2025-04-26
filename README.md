@@ -1,4 +1,23 @@
 # Tetris_JG_Project
-Tetris_JG_Project v5
-I'm not exactly sure since this project is almost a year old and I followed guides when creating it, but you will need to download Python and Pygame.
-"In my Tetris game, there are a few 'features/bugs' where the shape of the pieces completely changes when rotating or moving them. During development, there were some issues, but I decided to leave them as is. I would appreciate it if anyone can fix them."
+
+Это проект Tetris, который был создан почти год назад с использованием Python и Pygame. Пример был собран следуя различным руководствам, но из-за ошибок и особенностей разработки он имеет несколько багов.
+
+## Описание
+
+Tetris_JG_Project — это классическая игра Tetris, созданная с помощью Python и библиотеки Pygame. В процессе разработки игры возникали различные проблемы, особенно связанные с поворотом и движением блоков, из-за которых форма некоторых фигур меняется неожиданным образом. Я решил оставить их как есть, но буду признателен, если кто-то захочет помочь в исправлении этих багов.
+
+## Требования
+
+Для запуска игры необходимо установить:
+
+- **Python** (версии 3.x)
+- **Pygame** (можно установить с помощью команды: `pip install pygame`)
+
+## Как запустить
+
+1. Скачайте репозиторий на свой компьютер.
+2. Установите Python и Pygame, если они еще не установлены.
+3. Запустите файл `tetris.py` с помощью команды:
+
+   ```bash
+   python tetris.py
